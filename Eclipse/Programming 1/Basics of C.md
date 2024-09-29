@@ -1,0 +1,1 @@
+C is a low level structural language used in a lot of different devices and operating systems. In fact, a lot of operating systems are mainly coded in C. 
