@@ -1,4 +1,4 @@
-
+# Palindrome Checker (with support for leading 0)
 Note: This code is limited to 4 digits. Any more than that and it dies. 
 
 This code was written with the following restrictions:
