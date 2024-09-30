@@ -1,5 +1,7 @@
 
 Note: This code is limited to 4 digits. Any more than that and it dies. 
+
+
 This code was written with the following restrictions:
 1. We cannot use arrays, strings, and other data storage types besides integers.
 2. We cannot use else statements at all
