@@ -9,5 +9,12 @@ Arrangement of Controls and displays
 ### Health Issues
 
 --> Physical Position
+
 --> Temperature
+
 --> Lighting
+
+--> Noise
+
+--> Time
+ 
