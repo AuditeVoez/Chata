@@ -17,4 +17,4 @@ Arrangement of Controls and displays
 --> Noise
 
 --> Time
- 
+

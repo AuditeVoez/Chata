@@ -10,6 +10,8 @@ Taken from [w3schools](https://www.w3schools.com/c/c_intro.php) :
 
 C files are stored with the *.c* format, and headers with the *.h* format.
 
+Get started with the [[Basics of C]] by clicking the hyperlink.
+
 
 
 
