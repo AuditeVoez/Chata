@@ -1,3 +1,6 @@
+Prerequisites: 
+[[Introduction to C]] 
+
 To begin with, here is an example of C code:
 
 ```c
