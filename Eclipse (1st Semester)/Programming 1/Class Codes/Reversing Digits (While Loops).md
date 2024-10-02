@@ -27,3 +27,5 @@ int reverseDigit(int x){
 	return reversed;
 }
 ```
+
+Future Voez pls add a graph ty
