@@ -29,6 +29,7 @@ void arraySize(int n,int* largestNumber){
                     *largestNumber = ptr[i];
                 }
         }
+        free(ptr);
 }
 ```
 

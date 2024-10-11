@@ -20,5 +20,6 @@ void main(){
         ptr[i] = getInput();
     }
     n % 2 == 0 ?printf("Middle element of array is: %d", ptr[(n/2)-1]) : printf("Middle element of array is: %d", ptr[(n/2)]); 
+    free(ptr);
 }
 ```
