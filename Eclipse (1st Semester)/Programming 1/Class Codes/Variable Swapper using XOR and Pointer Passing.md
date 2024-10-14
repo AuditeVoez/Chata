@@ -15,3 +15,8 @@ void variableSwapper(int* x, int* y){
     *x = *x ^ *y;
 }
 ```
+
+Sample Test
+
+`Input`: 5 6
+`Output`: 6 5

@@ -33,4 +33,9 @@ void arraySize(int n,int* largestNumber){
 }
 ```
 
-Notes: You don't really need to use "Get Input", especially since we're dealing with arrays, but I like using it because it looks really clean.
+Sample Test
+
+`Input`:  
+Size: 7
+Elements: 1 2 3 5 3 2 1
+`Output`: 5

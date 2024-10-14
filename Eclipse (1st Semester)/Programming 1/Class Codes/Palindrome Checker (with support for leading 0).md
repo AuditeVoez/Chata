@@ -54,3 +54,7 @@ void main(){
             return 0;
     }
 ```
+Sample Test
+
+`Input`: 0110
+`Output`: Your number is a palindrome

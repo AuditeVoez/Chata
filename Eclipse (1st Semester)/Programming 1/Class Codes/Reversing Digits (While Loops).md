@@ -28,4 +28,7 @@ int reverseDigit(int x){
 }
 ```
 
-Future Voez pls add a graph ty
+Sample Test
+
+`Input`: 12345
+`Output`: 54321
