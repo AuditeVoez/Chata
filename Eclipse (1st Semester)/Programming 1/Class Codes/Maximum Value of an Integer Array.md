@@ -37,5 +37,7 @@ Sample Test
 
 `Input`:  
 Size: 7
+
 Elements: 1 2 3 5 3 2 1
+
 `Output`: 5

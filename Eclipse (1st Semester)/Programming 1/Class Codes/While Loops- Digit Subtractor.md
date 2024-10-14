@@ -19,5 +19,6 @@ int main(void){
 Sample Test
 
 `Input`: 12345
+
 `Output`: -5
 
