@@ -40,3 +40,6 @@ void main(){
     }
     printf("This is the final matrix.");
 }
+
+// Few things to note:
+// Code uses constant variables, but it could be changed to make it based on user input.
