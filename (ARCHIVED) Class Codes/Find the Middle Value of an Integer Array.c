@@ -1,7 +1,3 @@
-Instructions:
-> Write a function that takes an array of integers and its size, and returns a pointer to the middle element of the array. If the array has an even number of elements, return a pointer to the element with the lower index.
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 int getInput(){
@@ -21,14 +17,18 @@ void main(){
     }
     n % 2 == 0 ?printf("Middle element of array is: %d", ptr[(n/2)-1]) : printf("Middle element of array is: %d", ptr[(n/2)]); 
     free(ptr);
+
+    /*
+    Instructions:
+    > Write a function that takes an array of integers and its size, and returns a pointer to the middle element of the array. If the array has an even number of elements, return a pointer to the element with the lower index. 
+    
+    Sample Test
+
+    `Input`: 
+
+    Size 5
+    Elements: 1 2 3 4 5
+
+    `Output`: 3
+        */
 }
-```
-
-Sample Test
-
-`Input`: 
-
-Size 5
-Elements: 1 2 3 4 5
-
-`Output`: 3

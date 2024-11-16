@@ -1,9 +1,11 @@
-# Reversing Digits (While Loops)
-Note: 
-	- This code can reverse up to the 32bit integer limit. To reverse more than that, please add `long` behind the `int` data type.
+// # Reversing Digits (While Loops)
+// Note: 
+// 	- This code can reverse up to the 32bit integer limit. To reverse more than that, please add `long` behind the `int` data type.
+// Sample Test
 
+// `Input`: 12345
+// `Output`: 54321
 
-```c
 #include <stdio.h>
 
 int reverseDigit(int);
@@ -26,9 +28,3 @@ int reverseDigit(int x){
 			}
 	return reversed;
 }
-```
-
-Sample Test
-
-`Input`: 12345
-`Output`: 54321

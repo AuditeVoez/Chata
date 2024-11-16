@@ -1,13 +1,11 @@
-```Write a program that will ask the user the size of the array and the elements (double) of the array. Show the elements of the array and calculate the average of the positive elements only.
+// Write a program that will ask the user the size of the array and the elements (double) of the array. Show the elements of the array and calculate the average of the positive elements only.
 
-Requirements:
+// Requirements:
 
-1. The function, getNumber, does not have parameters but has a return type.
-2. The function contains only a scanf() that gets the elements of the array.
-3. The do-while loop statements to call the function and to show the elements of the array must be within the main().
-```
+// 1. The function, getNumber, does not have parameters but has a return type.
+// 2. The function contains only a scanf() that gets the elements of the array.
+// 3. The do-while loop statements to call the function and to show the elements of the array must be within the main().
 
-```c
 #include <stdio.h> 
 double getNumber();
 
@@ -50,6 +48,5 @@ double getNumber(){
     scanf("%lf", &x);
     return x;
 }
-```
 
 

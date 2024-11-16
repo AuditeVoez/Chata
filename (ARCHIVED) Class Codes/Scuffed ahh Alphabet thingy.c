@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 #include <ctype.h>
 
@@ -36,5 +35,3 @@ int main(void){
             }
         }  
 }
-//x is 31
-```
